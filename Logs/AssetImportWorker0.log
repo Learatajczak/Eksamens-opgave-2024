@@ -251,3 +251,69 @@ Received Import Request.
   path: Assets/Images/Materials 1
   artifactKey: Guid(d0f23c5353f6d45459bf554a376aa238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Images/Materials 1 using Guid(d0f23c5353f6d45459bf554a376aa238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70a4c460b82d1cc2c5e89efccc344512') in 0.001534 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.563779 seconds.
+  path: Assets/Images/Stol-Image 1.jpeg
+  artifactKey: Guid(accf12b4878cf45c1b5e3e5a6878a0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Stol-Image 1.jpeg using Guid(accf12b4878cf45c1b5e3e5a6878a0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa9a6f91021f968a3942e1c5dbfe54b') in 0.019759 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 43.854905 seconds.
+  path: Assets/Images/Objekter
+  artifactKey: Guid(c427cf318e77244ea870fa52bd7c82f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Objekter using Guid(c427cf318e77244ea870fa52bd7c82f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bacf122e637d869e9a1eef8f51403916') in 0.003779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.966028 seconds.
+  path: Assets/Images/Cigaret-Image.jpeg
+  artifactKey: Guid(3f2b659d5a4af49fbadebca222c22530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Cigaret-Image.jpeg using Guid(3f2b659d5a4af49fbadebca222c22530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '759ab6d64fd5e85552b281c33e4e86f8') in 0.018538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.324519 seconds.
+  path: Assets/Images/CigaretPakke-Image.jpeg
+  artifactKey: Guid(c8514659506904d3199b471edafd18f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/CigaretPakke-Image.jpeg using Guid(c8514659506904d3199b471edafd18f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cef3c64fd5eb47b8c288a157978f48c') in 0.038943 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.943712 seconds.
+  path: Assets/Images/Unknown.jpeg
+  artifactKey: Guid(3c003e0ccb05742b29e3c3f5f7a44e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Unknown.jpeg using Guid(3c003e0ccb05742b29e3c3f5f7a44e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd045ea51f15018ca8adea633b8f3809c') in 0.021965 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.353591 seconds.
+  path: Assets/Images/Stol-Image.jpeg
+  artifactKey: Guid(7914e54b3b56047b2a61135fd2f77be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Stol-Image.jpeg using Guid(7914e54b3b56047b2a61135fd2f77be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99c704150997fb13977cd18a2d14d17e') in 0.035420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.449210 seconds.
+  path: Assets/Images/Objekter 1
+  artifactKey: Guid(2a49121146553409da3bf98af44c7bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Objekter 1 using Guid(2a49121146553409da3bf98af44c7bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cc166d6dffb0b0f8066d575c262f9f3') in 0.002545 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.964669 seconds.
+  path: Assets/Images/Items
+  artifactKey: Guid(c427cf318e77244ea870fa52bd7c82f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Items using Guid(c427cf318e77244ea870fa52bd7c82f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad3c86062e6b2eb0b01b16c7fd0d25c5') in 0.001410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.059123 seconds.
+  path: Assets/Images/Obejtker Placeholder
+  artifactKey: Guid(2a49121146553409da3bf98af44c7bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Obejtker Placeholder using Guid(2a49121146553409da3bf98af44c7bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7ddcbbb37b523b06dbbfd2b8c47460b') in 0.001476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.481498 seconds.
+  path: Assets/Images/Objekter Placeholder
+  artifactKey: Guid(2a49121146553409da3bf98af44c7bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Objekter Placeholder using Guid(2a49121146553409da3bf98af44c7bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07774ecefd962f836f473a282c6f1e1c') in 0.001432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.331255 seconds.
+  path: Assets/Images/Objekter
+  artifactKey: Guid(8baea5f67a4e24551be2b3c9f03f1037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Objekter using Guid(8baea5f67a4e24551be2b3c9f03f1037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1d5147c288ba1635665fbaa05525c3f') in 0.002646 seconds 
