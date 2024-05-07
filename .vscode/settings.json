@@ -2,7 +2,13 @@
     "files.exclude": {
         "**/.DS_Store": true,
         "**/.git": true,
+<<<<<<< HEAD
         "**/.gitmodules": true,
+=======
+        "**/.vs": true,
+        "**/.gitmodules": true,
+        "**/.vsconfig": true,
+>>>>>>> c09b482300a459a9b3015cf80c9fcc44631431fb
         "**/*.booproj": true,
         "**/*.pidb": true,
         "**/*.suo": true,
@@ -47,9 +53,20 @@
         "library/": true,
         "obj/": true,
         "Obj/": true,
+<<<<<<< HEAD
         "ProjectSettings/": true,
         "temp/": true,
         "Temp/": true
     },
     "dotnet.defaultSolution": "Eksamens-opgave-2024.sln"
+=======
+        "Logs/": true,
+        "logs/": true,
+        "ProjectSettings/": true,
+        "UserSettings/": true,
+        "temp/": true,
+        "Temp/": true
+    },
+    "dotnet.defaultSolution": "DoorAndPickUp.sln"
+>>>>>>> c09b482300a459a9b3015cf80c9fcc44631431fb
 }
