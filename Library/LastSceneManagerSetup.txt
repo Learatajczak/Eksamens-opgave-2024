@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/Scenes/V\xE6rlse.unity"
+- path: "Assets/Scenes/Badev\xE6relse.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
